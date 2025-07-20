@@ -99,10 +99,10 @@ Perishable grocery items often go to waste simply because their prices don’t a
 
 
 ## Contributors:
-- Ashiya Garg
-- Diya Arora
-- Khushi Alodhan
-- Ananya Goyal
+- Ashiya Garg (Machine Learning, Backend & Content)
+- Diya Arora (Machine Learning & Backend Integration)
+- Khushi Alodhan (Frontend Development & Backend Integration)
+- Ananya Goyal (Frontend & Backend Integration)
 
 Developed during **Walmart Sparkathon-2025** 
 - **Theme**- Reimagining customer experience with emerging technologies
